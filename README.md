@@ -16,7 +16,7 @@ Datum      | Kirchengemeinde | Uhrzeit |   Pfarrperson   | Veranstaltung |
 24.09.2023 | Brandoberndorf  |  10:30  | Pfr. Lange      | Raum Ost Pilgergottesdienst 2.5h, Start Kirche Blessenbach |
 24.09.2023 | Weipersfelden   |    -    |        -        |       -       |
 ---------- | --------------- | ------- | --------------- | ------------- | 
-01.10.2023 | Burgsolms       |  10:00  | Pfrin.Offerm.<br> Präd. Schäfer | Familiengottesdienst Erntedank | 
+01.10.2023 | Burgsolms       |  10:00  | Pfrin. Offerm.<br> Präd. S. Schäfer | Familiengottesdienst zum Erntedankfest | 
 01.10.2023 | Oberndorf       |    -    |        -        |       -       | 
 01.10.2023 | Bonbaden        |  11:00  | Pfr/in. Vollmer         | auf dem ehem. Pfarrhof, Hauptstr. 49, Erntedank mit Katchus | 
 01.10.2023 | Neukirchen      |    -    |        -        |       -       | 
