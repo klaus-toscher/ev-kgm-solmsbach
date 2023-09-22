@@ -10,7 +10,7 @@ Datum      | Kirchengemeinde | Uhrzeit |   Pfarrperson   | Veranstaltung |
 24.09.2023 | Bonbaden        |    -    |        -        |       -       | 
 24.09.2023 | Neukirchen      |    -    |        -        |       -       | 
 24.09.2023 | Schwalbach      |  10:00  | Pfr/in. Vollmer  | GD mit Konfi Vorst. und anschl. Gemeindeversammlung | 
-24.09.2023 | Niederquembach  |  17:00  | Pfr. Sitzler    | GD und anschl. Gemeindeversammlung | 
+24.09.2023 | Niederquembach  |  17:00  | Pfr. Sitzler    | GD mit anschl. Gemeindeversammlung | 
 24.09.2023 | Kraftsolms      |  19:00  | Pfr. Ott        | GD mit anschl. Gemeindeversammlung | 
 24.09.2023 | Kröffelbach     |    -    |        -        |       -       | 
 24.09.2023 | Brandoberndorf  |  10:30  | Pfr. Lange      | Raum Ost Pilgergottesdienst 2.5h, Start Kirche Blessenbach |
