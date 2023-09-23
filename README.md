@@ -4,25 +4,28 @@ die am schönen Solmsbach gelegen sind.
 
 Datum      | Kirchengemeinde | Uhrzeit |   Pfarrperson   | Veranstaltung |
 ---------- | --------------- | ------- | --------------- | ------------- |
-23.09.2023 | Brandoberndorf  |  11:00  | Pfr. Lange      | GD mit Taufe  | 
-24.09.2023 | Burgsolms       |    -    |        -        |       -       | 
-24.09.2023 | Oberndorf       |  09:30  | Pfrin. Mähling  | Gottesdienst  | 
-24.09.2023 | Bonbaden        |    -    |        -        |       -       | 
-24.09.2023 | Neukirchen      |    -    |        -        |       -       | 
-24.09.2023 | Schwalbach      |  10:00  | Pfr/in. Vollmer  | GD mit Konfi Vorst. und anschl. Gemeindeversammlung | 
-24.09.2023 | Niederquembach  |  17:00  | Pfr. Sitzler    | GD mit anschl. Gemeindeversammlung | 
-24.09.2023 | Kraftsolms      |  19:00  | Pfr. Ott        | GD mit anschl. Gemeindeversammlung | 
-24.09.2023 | Kröffelbach     |    -    |        -        |       -       | 
-24.09.2023 | Brandoberndorf  |  10:30  | Pfr. Lange      | Raum Ost Pilgergottesdienst 2.5h, Start Kirche Blessenbach |
-24.09.2023 | Weipersfelden   |    -    |        -        |       -       |
+23.09.2023 | Brandoberndorf  | 11:00   | Pfr. Lange      | GD mit Taufe  | 
+24.09.2023 | Burgsolms       | kein GD | kein GD         | kein GD       | 
+24.09.2023 | Oberndorf       | 09:30   | Pfrin. Mähling  | GD            | 
+24.09.2023 | Bonbaden        | kein GD | kein GD         | kein GD       | 
+24.09.2023 | Neukirchen      | kein GD | kein GD         | kein GD       | 
+24.09.2023 | Schwalbach      | 10:00   | Pfr/in. Vollmer | GD mit Konfi Vorst. und anschl. Gemeindeversammlung | 
+24.09.2023 | Niederquembach  | 17:00   | Pfr. Sitzler    | GD mit anschl. Gemeindeversammlung | 
+24.09.2023 | Kraftsolms      | 19:00   | Pfr. Ott        | GD mit anschl. Gemeindeversammlung | 
+24.09.2023 | Kröffelbach     | kein GD | kein GD         | kein GD       | 
+24.09.2023 | Brandoberndorf  | 10:30   | Pfr. Lange      | Raum Ost Pilgergottesdienst 2.5h, Start Kirche Blessenbach |
+24.09.2023 | Weipersfelden   | kein GD | kein GD         | kein GD       | 
 ---------- | --------------- | ------- | --------------- | ------------- | 
-01.10.2023 | Burgsolms       |  10:00  | Pfr/in. Offermann <br> Präd/in. S. Schäfer | Familiengottesdienst zum Erntedankfest | 
-01.10.2023 | Oberndorf       |    -    |        -        |       -       | 
-01.10.2023 | Bonbaden        |  11:00  | Pfr/in. Vollmer         | auf dem ehem. Pfarrhof, Hauptstr. 49, Erntedank mit Katchus | 
-01.10.2023 | Neukirchen      |    -    |        -        |       -       | 
-01.10.2023 | Schwalbach      |    -    |        -        |       -       | 
-01.10.2023 | Niederquembach  |   k.A.  |       k.A.      |       k.A.    | 
-01.10.2023 | Kraftsolms      |   k.A.  |       k.A.      |       k.A.    | 
-01.10.2023 | Kröffelbach     |   k.A.  |       k.A.      |       k.A.    | 
-01.10.2023 | Brandoberndorf  |   k.A.  |       k.A.      |       k.A.    | 
-01.10.2023 | Weipersfelden   |   k.A.  |       k.A.      |       k.A.    | 
+01.10.2023 | Burgsolms       | 10:00   | Pfrin. Offermann <br> Präd.in S. Schäfer | Familiengottesdienst zum Erntedankfest | 
+01.10.2023 | Oberndorf       | kein GD | kein GD         | kein GD       | 
+01.10.2023 | Bonbaden        | 11:00   | Pfr/in. Vollmer | auf dem ehem. Pfarrhof, Hauptstr. 49, Erntedank mit Katchus | 
+01.10.2023 | Neukirchen      | kein GD | kein GD         | kein GD       | 
+01.10.2023 | Schwalbach      | kein GD | kein GD         | kein GD       | 
+01.10.2023 | Niederquembach  | keine Info | keine Info   | keine Info    | 
+01.10.2023 | Kraftsolms      | keine Info | keine Info   | keine Info    | 
+01.10.2023 | Kröffelbach     | keine Info | keine Info   | keine Info    | 
+01.10.2023 | Brandoberndorf  | keine Info | keine Info   | keine Info    | 
+01.10.2023 | Weipersfelden   | keine Info | keine Info   | keine Info    | 
+
+## Legende
+GD: Gottesdienst
