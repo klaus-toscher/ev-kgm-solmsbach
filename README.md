@@ -1,4 +1,4 @@
-# Kirchengemeinden Am Solmsbach
+# Kirchengemeinden<br>Am Solmsbach
 Diese Seite listet die Gottesdienste aller ev. Kirchengemeinden der EKIR und der EKHN
 die am schönen Solmsbach gelegen sind.
 
@@ -10,7 +10,7 @@ Datum      | Kirchengemeinde | Uhrzeit |   Pfarrperson   | Veranstaltung |
 24.09.2023 | Bonbaden        | kein GD | kein GD         | kein GD       | 
 24.09.2023 | Neukirchen      | kein GD | kein GD         | kein GD       | 
 24.09.2023 | Schwalbach      | 10:00   | Pfr/in. Vollmer | GD mit Konfi Vorst. und anschl. Gemeindeversammlung | 
-24.09.2023 | Niederquembach  | 17:00   | Pfr. Sitzler    | GD mit anschl. Gemeindeversammlung | 
+24.09.2023 | Niederquembach  | 17:00   | Pfr. Dr. Sitzler | GD mit anschl. Gemeindeversammlung | 
 24.09.2023 | Kraftsolms      | 19:00   | Pfr. Ott        | GD mit anschl. Gemeindeversammlung | 
 24.09.2023 | Kröffelbach     | kein GD | kein GD         | kein GD       | 
 24.09.2023 | Brandoberndorf  | 10:30   | Pfr. Lange      | Raum Ost Pilgergottesdienst 2.5h, Start Kirche Blessenbach |
@@ -29,3 +29,4 @@ Datum      | Kirchengemeinde | Uhrzeit |   Pfarrperson   | Veranstaltung |
 
 ## Legende
 GD: Gottesdienst
+Pfr/in: Pfrarrer oder Pfarrerin
