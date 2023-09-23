@@ -29,4 +29,4 @@ Datum      | Kirchengemeinde | Uhrzeit |   Pfarrperson   | Veranstaltung |
 
 ## Legende
 - GD: Gottesdienst
-- Pfr/in: Pfrarrer oder Pfarrerin
+- Pfr/in: Pfarrer oder Pfarrerin
