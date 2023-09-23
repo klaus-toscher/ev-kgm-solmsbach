@@ -4,7 +4,6 @@ die am schönen Solmsbach gelegen sind.
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
-23.09.2023   | Brandoberndorf  | 11:00      | Pfr. Lange        | GD mit Taufe  | 
 24.09.2023   | Burgsolms       | kein GD    | kein GD           | kein GD       | 
 24.09.2023   | Oberndorf       | 09:30      | Pfrin. Mähling    | GD            | 
 *24.09.2023* | *Braunfels*     | *11:00*    | *Pfr. Seuthe*     | *GD*          |
