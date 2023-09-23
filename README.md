@@ -17,7 +17,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 24.09.2023   | Weipersfelden   | kein GD    | kein GD           | kein GD       | 
 01.10.2023   | Burgsolms       | 10:00      | Pfrin. Offermann <br> Präd.in S. Schäfer | Familiengottesdienst zum Erntedankfest | 
 01.10.2023   | Oberndorf       | kein GD    | kein GD           | kein GD       | 
-*01.10.2023* | *Braunfels*     | *11:00*    | *Pfr. Seuthe*     | *Familien GD mit Begrüssung Katchus* und <br>Kürbis-Suppenessen in der Friedenskirche|
+*01.10.2023* | *Braunfels*     | *11:00*    | *Pfr. Seuthe*     | *Familien GD mit Begrüssung Katchus und <br>Kürbis-Suppenessen in der Friedenskirche* |
 01.10.2023   | Bonbaden        | 11:00      | Pfr/in. Vollmer   | auf dem ehem. Pfarrhof, Hauptstr. 49, Erntedank mit Katchus | 
 01.10.2023   | Neukirchen      | kein GD    | kein GD           | kein GD       | 
 *01.10.2023* | *Schwalbach*    | *kein GD*  | *kein GD*         | *kein GD*     |
