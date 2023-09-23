@@ -30,5 +30,9 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 ## Legende
 - GD: Gottesdienst
+- Pfrin: Pfarrerin
+- Pfr: Pfarrer
 - Pfr/in: Pfarrer oder Pfarrerin
+- Präd.in: Prädikantin
+- Präd.: Prädikant
 - *<...> liegt nicht am Solmsbach*
