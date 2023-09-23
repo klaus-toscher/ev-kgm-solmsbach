@@ -6,7 +6,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 ------------ | --------------- | ---------- | ----------------- | ------------- |
 24.09.2023   | Burgsolms       | kein GD    | kein GD           | kein GD       | 
 24.09.2023   | Oberndorf       | 09:30      | Pfrin. Mähling    | GD            | 
-*24.09.2023* | *Braunfels*     | *11:00*    | *Pfr. Seuthe*     | *GD* mit Taufe, Schlosskirche* |
+*24.09.2023* | *Braunfels*     | *11:00*    | *Pfr. Seuthe*     | *GD mit Taufe, Schlosskirche* |
 24.09.2023   | Bonbaden        | kein GD    | kein GD           | kein GD       | 
 24.09.2023   | Neukirchen      | kein GD    | kein GD           | kein GD       | 
 *24.09.2023* | *Schwalbach*    | *10:00*    | *Pfr/in. Vollmer* | *GD mit Konfi Vorst. und anschl. Gemeindeversammlung* |
