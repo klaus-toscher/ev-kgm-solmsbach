@@ -14,7 +14,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 01.10.2023   | Kraftsolms      | keine Info | keine Info        | keine Info    | 
 01.10.2023   | Kröffelbach     | keine Info | keine Info        | keine Info    | 
 01.10.2023   | Brandoberndorf  | keine Info | keine Info        | keine Info    | 
-01.10.2023   | Weipersfelden   | keine Info | keine Info        | keine Info    | 
+01.10.2023   | Weiperfelden    | keine Info | keine Info        | keine Info    | 
 
 ## Legende
 - GD: Gottesdienst
