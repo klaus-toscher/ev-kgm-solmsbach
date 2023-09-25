@@ -1,6 +1,7 @@
 # Ev. Kirchengemeinden<br>'Nahe dem Solmsbach'
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind.
+
 Stand: 25.09.2023
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
