@@ -12,10 +12,10 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 01.10.2023   | Leun            | 10:00      | Pfrin. Schuppener | Erntedank Gottesdienst |
 01.10.2023   | Bonbaden        | 11:00      | Pfr/in. Vollmer   | Gottesdienst auf dem ehem. Pfarrhof, Hauptstr. 49, Erntedank mit Katchus |
 01.10.2023   | Oberwetz        | 11:00      | Pfr. Ott          | Bauernhof von Fr. Schmidt, Rheinfelserstr. 8 |
-01.10.2023   | Kröffelbach     | 10:30      | Dr. Sitzler       | Lindenhof der Familie Andraschko | 
+01.10.2023   | Kröffelbach     | 10:30      | Pfr. Dr. Sitzler  | Lindenhof der Familie Andraschko | 
 01.10.2023   | Brandoberndorf  | keine Info | keine Info        | keine Info    |
 01.10.2023   | Weiperfelden    | keine Info | keine Info        | keine Info    |
-07.10.2023   | Weiperfelden    | 18:00      | Pfr- Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss in der Kirche eingeladen |
+07.10.2023   | Weiperfelden    | 18:00      | Pfr. Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss in der Kirche eingeladen |
 08.10.2023   | Brandoberndorf  | 11:00      | Pfr. Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss vor der Kirche eingeladen |
 
 ## Legende
