@@ -15,7 +15,8 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 01.10.2023   | Kröffelbach     | 10:30      | Dr. Sitzler       | Lindenhof der Familie Andraschko | 
 01.10.2023   | Brandoberndorf  | keine Info | keine Info        | keine Info    |
 01.10.2023   | Weiperfelden    | keine Info | keine Info        | keine Info    |
-
+07.10.2023   | Weiperfelden    | 18:00      | Pfr- Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss in der Kirche eingeladen |
+08.10.2023   | Brandoberndorf  | 11:00      | Pfr. Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss vor der Kirche eingeladen |
 
 ## Legende
 - GD: Gottesdienst
