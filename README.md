@@ -18,7 +18,9 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 07.10.2023   | Weiperfelden    | 18:00      | Pfr. Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss in der Kirche eingeladen |
 08.10.2023   | Oberndorf       | 09:30      | Pfr. Perko        | Gottesdienst Jubelkonfirmation | 
 08.10.2023   | Braunfels       | 17:00      | Pfr. Seuthe       | Taizé-Lichterfeier in der Friedenskirche |
+08.10.2023   | Oberbiel        | 10:00      | Pfr. Pack         | Gottesdienst |
 08.10.2023   | Brandoberndorf  | 11:00      | Pfr. Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss vor der Kirche eingeladen |
+15.10.2023   | Niederbiel      | 10:00      | Pfr. Pack         | Gottesdienst |
 
 ## Legende
 - GD: Gottesdienst
