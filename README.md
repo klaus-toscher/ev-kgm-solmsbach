@@ -26,7 +26,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 [KGM Bonbaden-Neukirchen-Schwalbach](https://www.evangelisch-bonbaden-schwalbach-neukirchen.de/gottesdienste/)
 
-[KGM Braunfels](https://www.evangelisch-in-braunfels.de/)
+[KGM Braunfels](https://www.evangelisch-in-braunfels.de)
 
 
 ## Legende
