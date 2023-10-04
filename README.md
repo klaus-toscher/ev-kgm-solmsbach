@@ -20,9 +20,14 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 ## Links
 
+[KGM Oberndorf](https://oberndorf.ekir.de)
+
 [KGM Schöffengrund - Waldsolms-Nord](https://schoeffengrund-waldsolms.ekir.de)
+
 [KGM Bonbaden-Neukirchen-Schwalbach](https://www.evangelisch-bonbaden-schwalbach-neukirchen.de/gottesdienste/)
+
 [KGM Braunfels]([https://schoeffengrund-waldsolms.ekir.de](https://www.evangelisch-in-braunfels.de/)
+
 
 ## Legende
 - GD: Gottesdienst
