@@ -20,7 +20,7 @@ Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung 
 
 ## Links
 
-[KGM Am-Solmsbach (Burgsolms-Oberndorf](https://burgsolms.ekir.de)
+[KGM Am-Solmsbach (Burgsolms-Oberndorf)](https://burgsolms.ekir.de)
 
 [KGM Schöffengrund - Waldsolms-Nord](https://schoeffengrund-waldsolms.ekir.de)
 
