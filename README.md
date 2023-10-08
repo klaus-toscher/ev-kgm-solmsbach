@@ -2,13 +2,10 @@
 Diese Seite listet die Gottesdienste vieler landeskirchlichen evangelischen Kirchengemeinden
 der EKIR und der EKHN die nahe dem schönen Solmsbach gelegen sind (entgegen der Fliessrichtung).
 
-Stand: 05.10.2023, KTO
+Stand: 08.10.2023, KTO
 
 Datum        | Kirchengemeinde | Uhrzeit    | Pfarrperson       | Veranstaltung |
 ------------ | --------------- | ---------- | ----------------- | ------------- |
-07.10.2023   | Kröffelbach     | 17:00      | Pfr. Dr. Sitzler  | Gottesdienst |
-07.10.2023   | Oberquembach    | 19:00      | Pfr. Dr. Sitzler  | Gottesdienst |
-07.10.2023   | Weiperfelden    | 18:00      | Pfr. Lange        | Gottesdienst zum Erntedankfest mit Abendmahl. Danach sind die Besucher:innen herzlich zu einem kleinen Steh-Imbiss in der Kirche eingeladen |
 08.10.2023   | Oberbiel        | 10:00      | Pfr. Pack         | Gottesdienst |
 08.10.2023   | Oberndorf       | 11:00      | Pfr. Perko        | Gottesdienst - Jubelkonfirmation (11:00)!| 
 08.10.2023   | Braunfels       | 17:00      | Pfr. Seuthe       | Taizé-Lichterfeier in der Friedenskirche |
